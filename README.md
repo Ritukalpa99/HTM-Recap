@@ -10,4 +10,6 @@ html pages have 2 main area :
 `h1` is the biggest heading, with `h6`being the smallest
 
 `<html lang="en">` : language attribute
-`<meta charset="UTF-8">` : meta tag 
+`<meta charset="UTF-8">` : meta tag
+`<!DOCTYPE html>` : doctype declaration needed to every html file.
+
