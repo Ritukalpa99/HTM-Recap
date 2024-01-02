@@ -9,7 +9,15 @@ html pages have 2 main area :
 
 `h1` is the biggest heading, with `h6`being the smallest
 
-`<html lang="en">` : language attribute
-`<meta charset="UTF-8">` : meta tag
+`<html lang="en">` : language attribute  
+`<meta charset="UTF-8">` : meta tag  
 `<!DOCTYPE html>` : doctype declaration needed to every html file.
+
+# Chapter 2 - Head elements
+- `<meta>` tags will be picked up by search engines.  
+- Adding a favicon. `<link rel="icon" href="path" type="image/x-icon">`
+- - `rel` stands for relate/relation; how does this relate to the webpage ? It's an icon.
+- - `href` : referencing a resource
+- - `type`: What type of resource is this.  
+- `head` is the area where we'll link `css` and `js` files and other resources we pull from web.
 
