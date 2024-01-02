@@ -21,3 +21,12 @@ html pages have 2 main area :
 - - `type`: What type of resource is this.  
 - `head` is the area where we'll link `css` and `js` files and other resources we pull from web.
 
+# Chapter 3 - Text Basics
+- Whitespace collapsing : We can have many whitespace in between text, but it won't be displayed in the webpage.  
+- `block` level element : Every element starts on a new line.  
+- `html entity` : Suppose we need to use less than, greater than, or even whitespaces in our html.
+- - html entity start with `&`
+- - `&nbsp;` - creates space
+- - `&lt;` - less than
+- `<abbr title="Mozilla Developer Network">MDN</abbr>` : For abbreviations (Not available for screen readers).
+- `<address>` tag
